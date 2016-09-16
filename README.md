@@ -1,3 +1,2 @@
 # hello-world
-For the tutorial
-Python is Power!
+My name is Derek, I want to be an engineer!
